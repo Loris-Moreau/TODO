@@ -8,3 +8,5 @@ A list of things to do
   * Unity VFX
   * UE VFX
 * Parkour Game
+* Descent-Game
+* Demoreel
