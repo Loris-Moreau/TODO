@@ -1,7 +1,7 @@
 <h1>"Today take one small step in actually doing something and not just dream about it"</h1>
 
 
-<h2>TODO:</h2>
+<h1>TODO:</h1>
 <p>A list of things to do</p>
 
 ---
@@ -15,7 +15,7 @@
 
 <h2>Game dev :</h2>
 <ul>
-    <li>[ ] UE Toolbox (a bunch of things that can be put into any project, eg. checkpoints, pickups, etc...)</li> 
+    <li>[ ] UE Toolbox <i>(a bunch of things that can be put into any project, eg. checkpoints, pickups, etc...)</i></li> 
     <li>[ ] lava shader (UE)</li>
     <li>[ ] Parkour Game</li>
     <li>[ ] Descent-Game</li>
@@ -25,7 +25,7 @@
 <ul>
     <li>blog post for website</li>
     <ul>
-            <li>[~] Write Blogs</li>
+            <li>[-] Write Blogs</li>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -77,11 +77,18 @@
 <h2>Life</h2>
 <ul>
     <li>[ ] buy a house</li>
-    <li>[ ] get a car(for rally/drifting)</li>
+    <li>[ ] fill the house</li>
+    <li>[ ] get framework laptop</li>
+    <li>[ ] get a car <i>(for rally/drifting)</i></li>
+    <li>[ ] home lab</li>
     <li>[ ] get a 3D printer</li>
     <ul>
-        <li>[ ] start printing</li>
+        <li>[ ] start printing ↓</li>
     </ul>
-    <li>[ ] home lab</li>
-    <li>[ ] secret door (library)</li>
+    <li>[ ] secret door <i>(library)</i></li>
+</ul>
+
+<h2>3D Printing</h2>
+<ul>
+    <li>[ ] </li>
 </ul>
