@@ -8,8 +8,9 @@
 
 <h2>Professional</h2>
 <ul>
-    <li>make 2025-26 demoreel</li>
-    <li>get a job</li>
+    <li>[ ] make 2025-26 demoreel</li>
+    <li>[ ] get an internship</li>
+    <li>[ ] get a job</li>
 </ul>
 
 <h2>Game dev :</h2>
