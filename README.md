@@ -2,7 +2,7 @@
 
 
 <h1>TODO:</h1>
-<p>A list of things to do</p>
+<p>A list of things to do, <i>to help with procrastination</i></p>
 
 ---
 
@@ -15,17 +15,58 @@
 
 <h2>Game dev :</h2>
 <ul>
-    <li>[ ] UE Toolbox <i>(a bunch of things that can be put into any project, eg. checkpoints, pickups, etc...)</i></li> 
-    <li>[ ] lava shader (UE)</li>
-    <li>[ ] Parkour Game</li>
-    <li>[ ] Descent-Game</li>
+    <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
+    <li>Games :</li>
+    <ul>
+        <li>[ ] </li>
+        <li>[ ] Echoes Of the Wasteland</li>
+        <li>[X] Game of Life <i>(Conway)</i></li>
+        <li>[ ] Dungeon Crawler</li>
+        <li>[ ] Parkour Game</li>
+        <li>[ ] Descent-Game</li>
+        <li>[ ] Psychological</li>
+        <li>[ ] Schizophrenia</li>
+        <li>[ ] Exploration</li>
+    </ul>
+</ul>
+
+<h2>Shaders/VFXs</h2>
+<ul>
+    <li>[X] Animated Material <i>()</i></li>
+    <li>[X] Arching Electricity</li>
+    <li>[X] Black Hole</li>
+    <li>[X] Flashing Lights (Disco)</li>
+    <li>[X] Force Field</li>
+    <li>[X] Glass & Mirror</li>
+    <li>[X] Hologram</li>
+    <li>[X] Invisible Wall</li>
+    <li>[X] Force field</li>
+    <li>[X] Magic Circle</li>
+    <li>[X] Outline</li>
+    <li>[X] Noise/Static Screen Effect</li>
+    <li>[X] Black & White Shader</li>
+    <li>[X] Storm/Tornado</li>
+    <li>[X] Voronoi Scanline</li>
+    <li>[X] Water :</li>
+    <ul>
+        <li>[X] Realistic</li>
+        <li>[X] Stylized</li>
+        <li>[X] Rain (Post-Process)</li>
+        <li>[X] Waterfall</li>
+    </ul>
+    <li>[X] Slime :</li>
+    <ul>
+        <li>[X] Slime Rancher Style</li>
+        <li>[X] Basic <i>(Veiny)</i></li>
+    </ul>
+    <li>[ ] Lava</li>
 </ul>
 
 <h2>Website :</h2>
 <ul>
     <li>blog post for website</li>
     <ul>
-            <li>[-] Write Blogs</li>
+            <li>[~] Write Blogs</li>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
