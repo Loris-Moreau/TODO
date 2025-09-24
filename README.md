@@ -35,7 +35,7 @@
     <li>[X] Animated Material <i>()</i></li>
     <li>[X] Arching Electricity</li>
     <li>[X] Black Hole</li>
-    <li>[X] Flashing Lights (Disco)</li>
+    <li>[X] Flashing Lights <i>(Disco)</i></li>
     <li>[X] Force Field</li>
     <li>[X] Glass & Mirror</li>
     <li>[X] Hologram</li>
@@ -52,14 +52,14 @@
         <li>[X] Realistic</li>
         <li>[X] Stylized</li>
         <li>[X] Rain (Post-Process)</li>
-        <li>[X] Waterfall</li>
+        <li>[ ] Waterfall</li>
     </ul>
     <li>[X] Slime :</li>
     <ul>
         <li>[X] Slime Rancher Style</li>
         <li>[X] Basic <i>(Veiny)</i></li>
     </ul>
-    <li>[ ] Lava</li>
+    <li>[ ] Lava <i>(thick with chunks)</i></li>
 </ul>
 
 <h2>Website :</h2>
@@ -119,14 +119,21 @@
 <ul>
     <li>[ ] buy a house</li>
     <li>[ ] fill the house</li>
-    <li>[ ] get framework laptop</li>
+    <ul>
+        <li>[ ] Rice cooker</li>
+        <li>[ ] Library</li>
+        <li>[ ] Kit out Work room</li>
+        <li>[ ] Showcase Shelves</li>
+        <li>[ ] etc...</li>
+    </ul>
+    <li>[ ] secret door <i>(library)</i></li>
+    <li>[ ] get framework laptop <i>(config saved on business email)</i></li>
     <li>[ ] get a car <i>(for rally/drifting)</i></li>
     <li>[ ] home lab</li>
     <li>[ ] get a 3D printer</li>
     <ul>
         <li>[ ] start printing ↓</li>
     </ul>
-    <li>[ ] secret door <i>(library)</i></li>
 </ul>
 
 <h2>3D Printing</h2>
