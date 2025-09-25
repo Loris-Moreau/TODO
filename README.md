@@ -18,7 +18,7 @@
     <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
     <li>Games :</li>
     <ul>
-        <li>[ ] </li>
+        <li>[ ] Helio Bloom</li>
         <li>[ ] Echoes Of the Wasteland</li>
         <li>[X] Game of Life <i>(Conway)</i></li>
         <li>[ ] Dungeon Crawler</li>
