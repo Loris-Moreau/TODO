@@ -46,7 +46,7 @@
 
 <h2>Shaders/VFXs</h2>
 <ul>
-    <li>[X] Animated Material <i>()</i></li>
+    <li>[X] Animated Material</li>
     <li>[X] Arching Electricity</li>
     <li>[X] Black Hole</li>
     <li>[X] Flashing Lights <i>(Disco)</i></li>
@@ -65,7 +65,7 @@
     <ul>
         <li>[X] Realistic</li>
         <li>[X] Stylized</li>
-        <li>[X] Rain (Post-Process)</li>
+        <li>[X] Rain <i>(Post-Process)</i></li>
         <li>[ ] Waterfall</li>
     </ul>
     <li>[X] Slime :</li>
@@ -80,7 +80,7 @@
 <ul>
     <li>blog post for website</li>
     <ul>
-            <li>[~] Write Blogs</li>
+            <li>Write Blogs</li>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -126,7 +126,7 @@
                 <li>[ ] PSVita Jailbreak</li>
             </ul>
     </ul>
-    <li>[ ] put current Demoreel</li>
+    <li>[ ] put new Demoreel</li>
 </ul>
 
 <h2>Life</h2>
@@ -138,7 +138,7 @@
         <li>[ ] Library</li>
         <li>[ ] Kit out Work room</li>
         <li>[ ] Showcase Shelves</li>
-        <li>[ ] etc...</li>
+        <li>etc...</li>
     </ul>
     <li>[ ] secret door <i>(library)</i></li>
     <li>[ ] get framework laptop <i>(config saved on business email)</i></li>
