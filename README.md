@@ -13,11 +13,11 @@
     <li>[ ] get a job</li>
     <li>[ ] FTJ</li>
     <ul>
-        <li>[ ] Debug Menu</li>
+        <li>[X] Debug Menu</li>
         <li>[X] 3C's</li>
         <li>[X] Dash</li>
         <li>[X] 180 Rotation</li>
-        <li>[ ] Aim Assist</li>
+        <li>[X] Aim Assist</li>
         <li>[ ] Wave Manager</li>
         <ul>
             <li>[ ] Request enemy</li>
