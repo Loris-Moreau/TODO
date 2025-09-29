@@ -107,7 +107,7 @@
                 <li>[X] Thoughts</li>
                 <li>[X] Workflow</li>
                 <li>[X] Game Dev Nintendo</li>
-                <li>[ ] TimTam Engine</li>
+                <li>[X] TimTam Engine</li>
                 <li>[X] 3D-Engine</li>
                 <li>[ ] R-1</li>
                 <li>[ ] R-2</li>
@@ -122,8 +122,8 @@
                 <li>[X] R-10-Bibliography</li>
                 <li>[X] VFX-1</li>
                 <li>[X] VFX-2</li>
-                <li>[ ] TSP</li>
-                <li>[ ] PSVita Jailbreak</li>
+                <li>[X] TSP</li>
+                <li>[X] PSVita Jailbreak</li>
             </ul>
     </ul>
     <li>[ ] put new Demoreel</li>
