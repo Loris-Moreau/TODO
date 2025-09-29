@@ -152,5 +152,6 @@
 
 <h2>3D Printing</h2>
 <ul>
-    <li>[ ] </li>
+    <li>[ ] Ducks</li>
+    <li>[ ] Car headlight cover</li>
 </ul>
