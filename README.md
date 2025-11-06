@@ -18,11 +18,11 @@
         <li>[X] Dash</li>
         <li>[X] 180 Rotation</li>
         <li>[X] Aim Assist</li>
-        <li>[ ] Wave Manager</li>
+        <li>[X] Wave Manager</li>
         <ul>
-            <li>[ ] Request enemy</li>
-            <li>[ ] Handover enemy</li>
-            <li>[ ] Spawner</li>
+            <li>[X] Request enemy</li>
+            <li>[X] Handover enemy</li>
+            <li>[X] Spawner</li>
         </ul>
     </ul>
 </ul>
