@@ -11,7 +11,22 @@
     <li>[ ] make 2025-26 demoreel</li>
     <li>[ ] get an internship</li>
     <li>[ ] get a job</li>
-    <li>[ ] FTJ</li>
+    <li>[ ] Helio Bloom</li>
+    <ul>
+        <li>[X] 3C's</li>
+        <li>[X] Dash</li>
+        <li>[X] Sprint</li>
+        <li>[ ] Double Jump</li>
+        <li>[X] Aim Assist</li>
+        <li>[ ] Wave Manager</li>
+        <ul>
+            <li>[ ] Request enemy</li>
+            <li>[ ] Handover enemy</li>
+            <li>[ ] Spawner</li>
+        </ul>
+    </ul>
+</ul>
+    <li>[X] FTJ</li>
     <ul>
         <li>[X] Debug Menu</li>
         <li>[X] 3C's</li>
@@ -32,7 +47,6 @@
     <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
     <li>Games :</li>
     <ul>
-        <li>[ ] Helio Bloom</li>
         <li>[ ] Horror Red</li>
         <li>[ ] Echoes Of the Wasteland</li>
         <li>[X] Game of Life <i>(Conway)</i></li>
