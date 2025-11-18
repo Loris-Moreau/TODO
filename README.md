@@ -17,7 +17,7 @@
         <li>[X] Dash</li>
         <li>[X] Sprint</li>
         <li>[ ] Double Jump</li>
-        <li>[X] Aim Assist</li>
+        <li>[ ] Aim Assist</li>
         <li>[ ] Wave Manager</li>
         <ul>
             <li>[ ] Request enemy</li>
