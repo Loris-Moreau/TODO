@@ -1,4 +1,4 @@
-<h1>"Today take one small step in actually doing something and not just dream about it"</h1>
+<h1>"Today, take one small step in actually doing something and not just dream about it."</h1>
 
 
 <h1>TODO:</h1>
@@ -15,25 +15,23 @@
     <ul>
         <li>[X] 3C's</li>
         <li>[X] Dash</li>
+        <li>[ ] Game Feel</li>
         <li>[X] Sprint</li>
         <li>[ ] Double Jump</li>
+        <li>[X] Grappling Hook <i>(Hook Shot)</i></li>
         <li>[ ] Aim Assist</li>
-        <li>[ ] Wave Manager</li>
-        <ul>
-            <li>[ ] Request enemy</li>
-            <li>[ ] Handover enemy</li>
-            <li>[ ] Spawner</li>
-        </ul>
     </ul>
-</ul>
-    <li>[X] FTJ</li>
+    <li>[X] FTJ <i>(Masters degree final project)</i></li>
     <ul>
         <li>[X] Debug Menu</li>
         <li>[X] 3C's</li>
+        <li>[X] Game Feel</li>
         <li>[X] Dash</li>
         <li>[X] 180 Rotation</li>
+        <li>[X] Target Lock on</li>
+        <li>[X] PCG Prune Tool <i>(removes intersecting meshes)</i></li>
         <li>[X] Aim Assist</li>
-        <li>[X] Wave Manager</li>
+        <li>[X] Wave & Pooling Manager</li>
         <ul>
             <li>[X] Request enemy</li>
             <li>[X] Handover enemy</li>
