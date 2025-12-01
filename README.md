@@ -37,6 +37,7 @@
             <li>[X] Handover enemy</li>
             <li>[X] Spawner</li>
         </ul>
+        <li>[X] Blockout</li>
     </ul>
 </ul>
 
