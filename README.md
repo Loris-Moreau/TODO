@@ -42,75 +42,85 @@
                     <li>[X] Spawner</li>
                 </ul>
                 <li>[X] Blockout</li>
-                <li>[ ] Production</li>
-                <ul>
-                    <li>[ ] Playtest Google Form</li>
+                <details open>
+                    <summary><h5>Production</h5></summary>
                     <ul>
-                        <li>[ ] 1st Playable 11/12/2025</li>
-                        <li>[ ] Alpha 27/02/2026</li>
-                        <li>[ ] Beta 10/04/2026</li>
-                        <li>[ ] Gold 14/05/2026</li>
+                        <li>[ ] Playtest Google Form</li>
+                        <ul>
+                            <li>[ ] 1st Playable 11/12/2025</li>
+                            <li>[ ] Alpha 27/02/2026</li>
+                            <li>[ ] Beta 10/04/2026</li>
+                            <li>[ ] Gold 14/05/2026</li>
+                        </ul>
                     </ul>
-                </ul>
-                </ul>
+                </details>
+            </ul>
         <li>[ ] get a job</li>
     </details>
+    </ul>
 </details>
 
-<h2>Game dev :</h2>
-<ul>
-    <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
-    <li>Games :</li>
+<details open>
+    <summary><h2>Game dev :</h2></summary>
     <ul>
-        <li>[ ] Horror Red</li>
-        <li>[ ] Echoes Of the Wasteland</li>
-        <li>[X] Game of Life <i>(Conway)</i></li>
-        <li>[ ] Dungeon Crawler</li>
-        <li>[ ] Parkour Game</li>
-        <li>[ ] Descent-Game</li>
-        <li>[ ] Psychological</li>
-        <li>[ ] Schizophrenia</li>
-        <li>[ ] Exploration</li>
+        <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
+        <li>Games :</li>
+        <ul>
+            <li>[ ] Horror Red</li>
+            <li>[ ] Echoes Of the Wasteland</li>
+            <li>[X] Game of Life <i>(Conway)</i></li>
+            <li>[ ] Dungeon Crawler</li>
+            <li>[ ] Parkour Game</li>
+            <li>[ ] Descent-Game</li>
+            <li>[ ] Psychological</li>
+            <li>[ ] Schizophrenia</li>
+            <li>[ ] Exploration</li>
+        </ul>
     </ul>
-</ul>
+</details>
 
-<h2>Shaders/VFXs</h2>
-<ul>
-    <li>[X] Animated Material</li>
-    <li>[X] Arching Electricity</li>
-    <li>[X] Black Hole</li>
-    <li>[X] Flashing Lights <i>(Disco)</i></li>
-    <li>[X] Force Field</li>
-    <li>[X] Glass & Mirror</li>
-    <li>[X] Hologram</li>
-    <li>[X] Invisible Wall</li>
-    <li>[X] Force field</li>
-    <li>[X] Magic Circle</li>
-    <li>[X] Outline</li>
-    <li>[X] Noise/Static Screen Effect</li>
-    <li>[X] Black & White Shader</li>
-    <li>[X] Storm/Tornado</li>
-    <li>[X] Voronoi Scanline</li>
-    <li>[ ] Water :</li>
+<details open>
+    <summary><h2>Shaders/VFXs</h2></summary>
     <ul>
-        <li>[X] Realistic</li>
-        <li>[X] Stylized</li>
-        <li>[X] Rain <i>(Post-Process)</i></li>
-        <li>[ ] Waterfall</li>
-    </ul>
-    <li>[X] Slime :</li>
-    <ul>
-        <li>[X] Slime Rancher Style</li>
-        <li>[X] Basic <i>(Veiny)</i></li>
-    </ul>
+        <li>[X] Animated Material</li>
+        <li>[X] Arching Electricity</li>
+        <li>[X] Black Hole</li>
+        <li>[X] Flashing Lights <i>(Disco)</i></li>
+        <li>[X] Force Field</li>
+        <li>[X] Glass & Mirror</li>
+        <li>[X] Hologram</li>
+        <li>[X] Invisible Wall</li>
+        <li>[X] Force field</li>
+        <li>[X] Magic Circle</li>
+        <li>[X] Outline</li>
+        <li>[X] Noise/Static Screen Effect</li>
+        <li>[X] Black & White Shader</li>
+        <li>[X] Storm/Tornado</li>
+        <li>[X] Voronoi Scanline</li>
+        <details>
+            <summary><p>Water :</p></summary>
+            <ul>
+                <li>[X] Realistic</li>
+                <li>[X] Stylized</li>
+                <li>[X] Rain <i>(Post-Process)</i></li>
+                <li>[ ] Waterfall</li>
+            </ul>
+        </details>
+        <li>[X] Slime :</li>
+        <ul>
+            <li>[X] Slime Rancher Style</li>
+            <li>[X] Basic <i>(Veiny)</i></li>
+        </ul>
     <li>[ ] Lava <i>(thick with chunks)</i></li>
-</ul>
+    </ul>
+</details>
 
-<h2>Website :</h2>
-<ul>
-    <li>blog post for website</li>
+<details open>
+    <summary><h2>Website :</h2></summary>
     <ul>
-            <li>Write Blogs</li>
+        <li>blog post for website</li>
+        <details open>
+            <summary><h5>Write Blogs</h5></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -131,7 +141,9 @@
                 <li>[ ] Servo Skull</li>
                 <li>[ ] Home Lab</li>
             </ul>
-        <li>[ ] Format Posts</li>
+        </details>
+        <details>
+            <summary><h5>Format Posts</h5></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -155,33 +167,38 @@
                 <li>[X] TSP</li>
                 <li>[X] PSVita Jailbreak</li>
             </ul>
+        </details>
+        <li>[ ] put new Demoreel</li>
     </ul>
-    <li>[ ] put new Demoreel</li>
-</ul>
+</details>
 
-<h2>Life</h2>
-<ul>
-    <li>[ ] buy a house</li>
-    <li>[ ] fill the house</li>
+<details open>
+    <summary><h2>Life</h2></summary>
     <ul>
-        <li>[ ] Rice cooker</li>
-        <li>[ ] Library</li>
-        <li>[ ] Kit out Work room</li>
-        <li>[ ] Showcase Shelves</li>
-        <li>etc...</li>
+        <li>[ ] buy a house</li>
+        <li>[ ] fill the house</li>
+        <ul>
+            <li>[ ] Rice cooker</li>
+            <li>[ ] Library</li>
+            <li>[ ] Kit out Work room</li>
+            <li>[ ] Showcase Shelves</li>
+            <li>etc...</li>
+        </ul>
+        <li>[ ] secret door <i>(library)</i></li>
+        <li>[ ] get framework laptop <i>(config saved on business email)</i></li>
+        <li>[ ] get a car <i>(for racing/rally/drifting)</i></li>
+        <li>[ ] home lab</li>
+        <li>[ ] get a 3D printer</li>
+        <ul>
+            <li>[ ] start printing ↓</li>
+        </ul>
     </ul>
-    <li>[ ] secret door <i>(library)</i></li>
-    <li>[ ] get framework laptop <i>(config saved on business email)</i></li>
-    <li>[ ] get a car <i>(for rally/drifting)</i></li>
-    <li>[ ] home lab</li>
-    <li>[ ] get a 3D printer</li>
-    <ul>
-        <li>[ ] start printing ↓</li>
-    </ul>
-</ul>
+</details>
 
-<h2>3D Printing</h2>
-<ul>
-    <li>[ ] Ducks</li>
-    <li>[ ] Car headlight cover</li>
-</ul>
+<details open>
+    <summary><h2>3D Printing</h2></summary>
+    <ul>
+        <li>[ ] Ducks</li>
+        <li>[ ] Car headlight cover</li>
+    </ul>
+</details>
