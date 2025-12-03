@@ -12,7 +12,7 @@
         <li>[ ] make 2025-26 demoreel</li>
         <li>[ ] get an internship</li>
         <details>
-            <summary>Helio Bloom</summary>
+            <summary><p>Helio Bloom</p></summary>
             <ul>
                 <li>[X] 3C's</li>
                 <li>[X] Dash</li>
@@ -24,7 +24,7 @@
             </ul>
         </details>
         <details open> 
-            <summary>FTJ <i>(Masters degree final project)</i></summary>
+            <summary><p>FTJ <i>(Masters degree final project)</i></p></summary>
             <ul>
                 <li>[X] Debug Menu</li>
                 <li>[X] 3C's</li>
@@ -42,7 +42,7 @@
                 </ul>
                 <li>[X] Blockout</li>
                 <details open>
-                    <summary><h5>Production</h5></summary>
+                    <summary><p>Production</p></summary>
                     <ul>
                         <li>[ ] Playtest Google Form</li>
                         <ul>
@@ -119,7 +119,7 @@
     <ul>
         <li>blog post for website</li>
         <details open>
-            <summary><h5>Write Blogs</h5></summary>
+            <summary><p>Write Blogs</p></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -142,7 +142,7 @@
             </ul>
         </details>
         <details>
-            <summary><h5>Format Posts</h5></summary>
+            <summary><p>Format Posts</p></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
