@@ -10,7 +10,6 @@
 <ul>
     <li>[ ] make 2025-26 demoreel</li>
     <li>[ ] get an internship</li>
-    <li>[ ] get a job</li>
     <li>[ ] Helio Bloom</li>
     <ul>
         <li>[X] 3C's</li>
@@ -38,7 +37,18 @@
             <li>[X] Spawner</li>
         </ul>
         <li>[X] Blockout</li>
+        <li>[ ] Production</li>
+        <ul>
+            <li>[ ] Playtest Google Form</li>
+            <ul>
+                <li>[ ] 1st Playable 11/12/2025</li>
+                <li>[ ] Alpha 27/02/2026</li>
+                <li>[ ] Beta 10/04/2026</li>
+                <li>[ ] Gold 14/05/2026</li>
+            </ul>
+        </ul>
     </ul>
+    <li>[ ] get a job</li>
 </ul>
 
 <h2>Game dev :</h2>
