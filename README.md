@@ -6,50 +6,56 @@
 
 ---
 
-<h2>Professional</h2>
-<ul>
-    <li>[ ] make 2025-26 demoreel</li>
-    <li>[ ] get an internship</li>
-    <li>[ ] Helio Bloom</li>
+<details open>
+    <summary><h2>Professional</h2></summary>
     <ul>
-        <li>[X] 3C's</li>
-        <li>[X] Dash</li>
-        <li>[ ] Game Feel</li>
-        <li>[X] Sprint</li>
-        <li>[ ] Double Jump</li>
-        <li>[X] Grappling Hook <i>(Hook Shot)</i></li>
-        <li>[ ] Aim Assist</li>
-    </ul>
-    <li>[X] FTJ <i>(Masters degree final project)</i></li>
-    <ul>
-        <li>[X] Debug Menu</li>
-        <li>[X] 3C's</li>
-        <li>[X] Game Feel</li>
-        <li>[X] Dash</li>
-        <li>[X] 180 Rotation</li>
-        <li>[X] Target Lock on</li>
-        <li>[X] PCG Prune Tool <i>(removes intersecting meshes)</i></li>
-        <li>[X] Aim Assist</li>
-        <li>[X] Wave & Pooling Manager</li>
-        <ul>
-            <li>[X] Request enemy</li>
-            <li>[X] Handover enemy</li>
-            <li>[X] Spawner</li>
-        </ul>
-        <li>[X] Blockout</li>
-        <li>[ ] Production</li>
-        <ul>
-            <li>[ ] Playtest Google Form</li>
+        <li>[ ] make 2025-26 demoreel</li>
+        <li>[ ] get an internship</li>
+        <br>
+        <details>
+            <summary>Helio Bloom</summary>
             <ul>
-                <li>[ ] 1st Playable 11/12/2025</li>
-                <li>[ ] Alpha 27/02/2026</li>
-                <li>[ ] Beta 10/04/2026</li>
-                <li>[ ] Gold 14/05/2026</li>
+                <li>[X] 3C's</li>
+                <li>[X] Dash</li>
+                <li>[ ] Game Feel</li>
+                <li>[X] Sprint</li>
+                <li>[ ] Double Jump</li>
+                <li>[X] Grappling Hook <i>(Hook Shot)</i></li>
+                <li>[ ] Aim Assist</li>
             </ul>
-        </ul>
-    </ul>
-    <li>[ ] get a job</li>
-</ul>
+        </details>
+        <details open> 
+            <summary>FTJ <i>(Masters degree final project)</i></summary>
+            <ul>
+                <li>[X] Debug Menu</li>
+                <li>[X] 3C's</li>
+                <li>[X] Game Feel</li>
+                <li>[X] Dash</li>
+                <li>[X] 180 Rotation</li>
+                <li>[X] Target Lock on</li>
+                <li>[X] PCG Prune Tool <i>(removes intersecting meshes)</i></li>
+                <li>[X] Aim Assist</li>
+                <li>[X] Wave & Pooling Manager</li>
+                <ul>
+                    <li>[X] Request enemy</li>
+                    <li>[X] Handover enemy</li>
+                    <li>[X] Spawner</li>
+                </ul>
+                <li>[X] Blockout</li>
+                <li>[ ] Production</li>
+                <ul>
+                    <li>[ ] Playtest Google Form</li>
+                    <ul>
+                        <li>[ ] 1st Playable 11/12/2025</li>
+                        <li>[ ] Alpha 27/02/2026</li>
+                        <li>[ ] Beta 10/04/2026</li>
+                        <li>[ ] Gold 14/05/2026</li>
+                    </ul>
+                </ul>
+                </ul>
+        <li>[ ] get a job</li>
+    </details>
+</details>
 
 <h2>Game dev :</h2>
 <ul>
@@ -85,7 +91,7 @@
     <li>[X] Black & White Shader</li>
     <li>[X] Storm/Tornado</li>
     <li>[X] Voronoi Scanline</li>
-    <li>[X] Water :</li>
+    <li>[ ] Water :</li>
     <ul>
         <li>[X] Realistic</li>
         <li>[X] Stylized</li>
