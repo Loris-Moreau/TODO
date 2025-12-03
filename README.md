@@ -117,7 +117,7 @@
 <details open>
     <summary><h2>Website :</h2></summary>
     <ul>
-        <li>blog post for website</li>
+        <li>[X] Make the CSS and DA for the site <i>(Implement it correctly)</i></li>
         <details open>
             <summary><p>Write Blogs</p></summary>
             <ul>
