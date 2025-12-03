@@ -11,7 +11,6 @@
     <ul>
         <li>[ ] make 2025-26 demoreel</li>
         <li>[ ] get an internship</li>
-        <br>
         <details>
             <summary>Helio Bloom</summary>
             <ul>
