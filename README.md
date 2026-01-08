@@ -11,7 +11,7 @@
     <ul>
         <li>[ ] make 2025-26 demoreel</li>
         <li>[ ] get an internship</li>
-        <details>
+        <details open>
             <summary><p>Helio Bloom</p></summary>
             <ul>
                 <li>[X] 3C's</li>
@@ -20,6 +20,9 @@
                 <li>[X] Sprint</li>
                 <li>[ ] Double Jump</li>
                 <li>[X] Grappling Hook <i>(Hook Shot)</i></li>
+                <ul>
+                    <li>[ ] Refine Grappling Hook</li>
+                </ul>
                 <li>[ ] Aim Assist</li>
             </ul>
         </details>
@@ -29,27 +32,33 @@
                 <li>[X] Debug Menu</li>
                 <li>[X] 3C's</li>
                 <li>[X] Game Feel</li>
+                <ul>
+                    <li>[X] Player Feel</li>
+                    <li>[X] Enemy Feel</li>
+                </ul>
                 <li>[X] Dash</li>
                 <li>[X] 180 Rotation</li>
                 <li>[X] Target Lock on</li>
                 <li>[X] PCG Prune Tool <i>(removes intersecting meshes)</i></li>
                 <li>[X] Aim Assist</li>
-                <li>[X] Wave & Pooling Manager</li>
+                <li>[X] Wave Manager</li>
+                <li>[X] Pooling Manager</li>
                 <ul>
                     <li>[X] Request enemy</li>
                     <li>[X] Handover enemy</li>
                     <li>[X] Spawner</li>
                 </ul>
-                <li>[X] Blockout</li>
-                <details open>
+                <li>[X] Pre-Hit Notifiers</li>
+                <li>[X] Fix VFXs</li>
+                <details>
                     <summary><p>Production</p></summary>
                     <ul>
-                        <li>[ ] Playtest Google Form</li>
+                        <li>[X] Playtest Google Form</li>
                         <ul>
-                            <li>[ ] 1st Playable 11/12/2025</li>
-                            <li>[ ] Alpha 27/02/2026</li>
-                            <li>[ ] Beta 10/04/2026</li>
-                            <li>[ ] Gold 14/05/2026</li>
+                            <li>[X] 1st Playable 11/12/2025</li>
+                            <li>[ ] <s>Alpha 27/02/2026</s></li>
+                            <li>[ ] <s>Beta 10/04/2026</s></li>
+                            <li>[ ] <s>Gold 14/05/2026</s></li>
                         </ul>
                     </ul>
                 </details>
@@ -70,11 +79,98 @@
             <li>[X] Game of Life <i>(Conway)</i></li>
             <li>[ ] Dungeon Crawler</li>
             <li>[ ] Parkour Game</li>
+            <li>[ ] Minto Gear</li>
             <li>[ ] Descent-Game</li>
             <li>[ ] Psychological</li>
             <li>[ ] Schizophrenia</li>
             <li>[ ] Exploration</li>
+            <li>[X] La Vengeance de Metella</li>
+            <li>Game Jams :</li>
+            <ul>
+                <li>[X] GGJ 24 Battle Boule Arena</li>
+                <li>[ ] GGJ 26 </li>
+            </ul>
         </ul>
+        <details>
+            <summary>3D Game Engine</summary>
+            <ul>
+                <li>[ ] Rendering</li>
+                <li>[ ] Window Management</li>
+                <li>[ ] Movements</li>
+                <li>[ ] Interactions</li>
+                <li>[ ] Pickups</li>
+                <ul>
+                    <li>health</li>
+                    <li>ammo</li>
+                    <li>different types of weapons <i>(you would start with fist & then pick up weapons as you go along the levels)</i></li>
+                </ul>
+                <li>[ ] Level Builder/Editor</li>
+                <li>[ ] Save & Load Systems</li>
+                <li>[ ] Teleporters</li>
+                <li>[ ] Doors</li>
+                <li>[ ] Timer</li>
+                <li>[ ] Scoring system</li>
+                <li>[ ] NPCs</li>
+                <li>[ ] Dialogue System</li>
+                <li>[ ] Enemies</li>
+                <ul>
+                    <li>[ ] Pathfinding</li>
+                    <li>[ ] Random Roam</li>
+                    <li>[ ] See and Attack/Hunt Player or NPC</li>
+                    <li>[ ] Can pickup ?</li>
+                </ul>
+                <li>Types of Enemies</li>
+                <ul>
+                    <li>[ ] Normal</li>
+                    <li>[ ] Tank</li>
+                    <li>[ ] Flying</li>
+                    <li>[ ] Boss variant for each type</li>
+                </ul>
+                <li>[ ] Combat System</li>
+                <li>[ ] Health System</li>
+                <li>[ ] Kill Count</li>
+                <li>[ ] Different Weapons</li>
+                <ul>
+                    <li>chainsaw <i>(100 dmg)</i></li>
+                    <li>bazooka <i>(65 dmg (explosion (Knockback)))</i></li>
+                    <li>shotgun <i>(45 dmg)</i></li>
+                    <li>fists <i>(starting weapon) (10 dmg)</i></li>
+                </ul>
+                <li>[ ] Inventory</li>
+                <li>UI</li>
+                <ul>
+                    <li>[ ] Health</li>
+                    <li>[ ] Stamina</li>
+                    <li>[ ] Ammo</li>
+                    <li>[ ] Current Weapon Equiped</li>
+                    <li>[ ] Inventory</li>
+                    <li>[ ] Consumables</li>
+                </ul>
+                <li>Menus</li>
+                <ul>
+                    <li>[ ] Main Menu</li>
+                    <li>[ ] Pause Menu</li>
+                    <li>[ ] Level Selector Menu <i>(only unlocked levels)</i></li>
+                    <ul>
+                        <li>Levels are unlocked upon their completion and have a score & time attached to them</li>
+                    </ul>
+                    <li>[ ] Settings Menu</li>
+                    <ul>
+                        <li>[ ] Mouse Sensitivity</li>
+                        <li>[ ] Controls <i>(for now only show them)</i></li>
+                        <li>[ ] Volumes <i>(master, vfx, voices, etc...)</i></li>
+                    </ul>
+                </ul>
+                <li>Games to make :</li>
+                <ul>
+                    <li>[ ] Doom</li>
+                    <li>[ ] Descent like</li>
+                    <li>[ ] Simple Factorio / ShapeZ</li>
+                    <li>[ ] Random Fun Game</li>
+                    <li>[ ] Stress Test Prototypes</li>
+                </ul>
+            </ul>
+        </details>
     </ul>
 </details>
 
