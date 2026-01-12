@@ -2,7 +2,7 @@
 
 
 <h1>TODO:</h1>
-<p>A list of things to do, <i>to help with procrastination</i></p>
+<h3>A list of things to do, <i>to help with procrastination</i></h3>
 
 ---
 
@@ -12,7 +12,7 @@
         <li>[ ] make 2025-26 demoreel</li>
         <li>[ ] get an internship</li>
         <details open>
-            <summary><p>Helio Bloom</p></summary>
+            <summary><h4>Helio Bloom</h4></summary>
             <ul>
                 <li>[X] 3C's</li>
                 <li>[X] Dash</li>
@@ -27,7 +27,7 @@
             </ul>
         </details>
         <details open> 
-            <summary><p>FTJ <i>(Masters degree final project)</i></p></summary>
+            <summary><h4>FTJ <i>(Masters degree final project)</i></h4></summary>
             <ul>
                 <li>[X] Debug Menu</li>
                 <li>[X] 3C's</li>
@@ -51,7 +51,7 @@
                 <li>[X] Pre-Hit Notifiers</li>
                 <li>[X] Fix VFXs</li>
                 <details>
-                    <summary><p>Production</p></summary>
+                    <summary><h4>Production</h4></summary>
                     <ul>
                         <li>[X] Playtest Google Form</li>
                         <ul>
@@ -193,7 +193,7 @@
         <li>[X] Storm/Tornado</li>
         <li>[X] Voronoi Scanline</li>
         <details>
-            <summary><p>Water :</p></summary>
+            <summary><h4>Water :</h4></summary>
             <ul>
                 <li>[X] Realistic</li>
                 <li>[X] Stylized</li>
@@ -215,7 +215,7 @@
     <ul>
         <li>[X] Make the CSS and DA for the site <i>(Implement it correctly)</i></li>
         <details open>
-            <summary><p>Write Blogs</p></summary>
+            <summary><h4>Write Blogs</h4></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -238,7 +238,7 @@
             </ul>
         </details>
         <details>
-            <summary><p>Format Posts</p></summary>
+            <summary><h4>Format Posts</h4></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
