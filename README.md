@@ -7,7 +7,7 @@
 ---
 
 <details open>
-    <h2>Professional</h2></summary>
+    <summary><h2>Professional</h2></summary>
     <ul>
         <li>[ ] make 2025-26 demoreel</li>
         <li>[ ] get an internship</li>
@@ -51,7 +51,7 @@
                 <li>[X] Pre-Hit Notifiers</li>
                 <li>[X] Fix VFXs</li>
                 <details>
-                    <h4>Production</h4></summary>
+                    <summary><h4>Production</h4></summary>
                     <ul>
                         <li>[X] Playtest Google Form</li>
                         <ul>
@@ -69,7 +69,7 @@
 </details>
 
 <details open>
-    <h2>Game dev :</h2></summary>
+    <summary><h2>Game dev :</h2></summary>
     <ul>
         <li>[ ] UE Toolbox <i>(systems that can be put into any project, eg. checkpoints, pickups, etc...)</i></li>
         <li>Games :</li>
@@ -92,7 +92,7 @@
             </ul>
         </ul>
         <details>
-            <h4>3D Game Engine</h4></summary>
+            <summary>3D Game Engine</summary>
             <ul>
                 <li>[ ] Rendering</li>
                 <li>[ ] Window Management</li>
@@ -175,7 +175,7 @@
 </details>
 
 <details open>
-    <h2>Shaders/VFXs</h2></summary>
+    <summary><h2>Shaders/VFXs</h2></summary>
     <ul>
         <li>[X] Animated Material</li>
         <li>[X] Arching Electricity</li>
@@ -193,7 +193,7 @@
         <li>[X] Storm/Tornado</li>
         <li>[X] Voronoi Scanline</li>
         <details>
-            <h4>Water :</h4></summary>
+            <summary><h4>Water :</h4></summary>
             <ul>
                 <li>[X] Realistic</li>
                 <li>[X] Stylized</li>
@@ -211,11 +211,11 @@
 </details>
 
 <details open>
-    <h2>Website :</h2></summary>
+    <summary><h2>Website :</h2></summary>
     <ul>
         <li>[X] Make the CSS and DA for the site <i>(Implement it correctly)</i></li>
         <details open>
-            <h4>Write Blogs</h4></summary>
+            <summary><h4>Write Blogs</h4></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -238,7 +238,7 @@
             </ul>
         </details>
         <details>
-            <h4>Format Posts</h4></summary>
+            <summary><h4>Format Posts</h4></summary>
             <ul>
                 <li>[X] Ideas</li>
                 <li>[X] Thoughts</li>
@@ -268,7 +268,7 @@
 </details>
 
 <details open>
-    <h2>Life</h2></summary>
+    <summary><h2>Life</h2></summary>
     <ul>
         <li>[ ] buy a house</li>
         <li>[ ] fill the house</li>
@@ -291,7 +291,7 @@
 </details>
 
 <details open>
-    <h2>3D Printing</h2></summary>
+    <summary><h2>3D Printing</h2></summary>
     <ul>
         <li>[ ] Ducks</li>
         <li>[ ] Car headlight cover</li>
