@@ -92,7 +92,7 @@
             </ul>
         </ul>
         <details>
-            <summary>3D Game Engine</summary>
+            <summary><h4>3D Game Engine</h4></summary>
             <ul>
                 <li>[ ] Rendering</li>
                 <li>[ ] Window Management</li>
