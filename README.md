@@ -50,6 +50,8 @@
                 </ul>
                 <li>[X] Pre-Hit Notifiers</li>
                 <li>[X] Fix VFXs</li>
+                <li>[X] Arena</li>
+                <li>[X] Spawners</li>
                 <details>
                     <summary><h4>Production</h4></summary>
                     <ul>
