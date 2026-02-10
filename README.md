@@ -81,6 +81,7 @@
             <li>[X] Game of Life <i>(Conway)</i></li>
             <li>[ ] Dungeon Crawler</li>
             <li>[ ] Parkour Game</li>
+            <li>[X] ArcBound</li>
             <li>[ ] Minto Gear</li>
             <li>[ ] Descent-Game</li>
             <li>[ ] Psychological</li>
@@ -90,7 +91,7 @@
             <li>Game Jams :</li>
             <ul>
                 <li>[X] GGJ 24 Battle Boule Arena</li>
-                <li>[ ] GGJ 26 </li>
+                <li>[X] GGJ 26 Sharkour</li>
             </ul>
         </ul>
         <details>
