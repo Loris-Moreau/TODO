@@ -229,6 +229,7 @@
                 <li>[X] Raytracing</li>
                 <li>[X] Raytracing Research Project</li>
                 <li>[X] Research Project Bibliography</li>
+                <li>[ ] Quaternions</li>
                 <li>[ ] VFX Unreal</li>
                 <li>[ ] VFX Unity</li>
                 <li>[X] TSP</li>
